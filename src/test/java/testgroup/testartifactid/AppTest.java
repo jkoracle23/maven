@@ -9,7 +9,8 @@ import junit.framework.TestSuite;
  */
 public class AppTest 
     extends TestCase
-{
+{System.out.println("4444444");
+
     /**
      * Create the test case
      *
