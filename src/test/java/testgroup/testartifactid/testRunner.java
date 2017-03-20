@@ -16,8 +16,9 @@ public class testRunner {
 		Assert.assertEquals("this is message", "test", "not test");
 
 		System.out.println("another merge conflict changes");
-		System.out.println("1111111");
-		
+
+		System.out.println("22222222222222222222222222222");
+
 
 	}
 	
